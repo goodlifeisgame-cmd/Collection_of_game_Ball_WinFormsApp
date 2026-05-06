@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/DoneGame/">
+    <Project Path="AngryBirdWFA/AngryBirdWFA.csproj" Id="2d2f1b75-9db4-4bff-8947-2fa7009848a0" />
+    <Project Path="BallBilliardWFApp/BallBilliardWFApp.csproj" Id="58c72cf8-188c-4a88-8d5c-425f4eeb3e8d" />
+    <Project Path="BallGamesWinFormsApp/BallPopWFApp.csproj" />
+    <Project Path="BallWindowPopWinFormApp/BallCatchWFApp.csproj" Id="336b763b-35f5-41f6-97a0-57416ca75cc1" />
+    <Project Path="FruitNinjaWFApp/FruitNinjaWFApp.csproj" Id="41cb3888-8b3b-491b-af41-00384b7eebef" />
+    <Project Path="SalutGameWinFormsApp/SalutGameWinFormsApp.csproj" Id="c833bb9a-08b0-48e5-8cb8-b7ad0e6bff9e" />
+    <Project Path="SimulationGasWFApp/SimulationGasWFApp.csproj" Id="0cf5cc09-7be7-4d59-91ed-a346a5f0a92a" />
+  </Folder>
+  <Project Path="BallManager/BallsCommon.csproj" Id="2064a290-f1d7-4518-b17f-f233cbcfd3e2" />
+</Solution>
