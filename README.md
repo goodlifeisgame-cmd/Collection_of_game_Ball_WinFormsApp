@@ -18,13 +18,6 @@
 
 ---
 
-## 🎮 Что реализовано
-
-- "Лопать шарики", нужно просто кликнуть на шарик тем самым он перекрашивается и падает на землю
-<img width="660" height="442" alt="BallPopWFApp_o5ycj7okc3" src="https://github.com/user-attachments/assets/1a0312a7-60c7-4fcf-b889-bb6c53eeaf05" />
-
----
-
 ## 🧠 Как это устроено
 
 - Движение реализовано через обновление координат (X, Y)
@@ -41,6 +34,14 @@
 - C#
 - .NET
 - WinForms
+- Timer
+
+---
+
+## 🎮 Что реализовано
+
+- "Лопать шарики", нужно просто кликнуть на шарик тем самым он перекрашивается и падает на землю
+<img width="660" height="442" alt="BallPopWFApp_o5ycj7okc3" src="https://github.com/user-attachments/assets/1a0312a7-60c7-4fcf-b889-bb6c53eeaf05" />
 
 ---
 
